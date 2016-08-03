@@ -1,3 +1,7 @@
+项目地址： [https://github.com/dengzhirong/radarChart][1]
+
+Demo展示地址： [https://dengzhirong.github.io/radarChart/radarChart.html][2]
+
 ## 一. 使用方法：
 
 ### 1.1 引入组件资源
@@ -117,3 +121,7 @@ tooltip对象的属性值有：
 | **offsetX** | Int  | 圆圈半径。   | 可选   | 0        |
 | **offsetY** | Int  | 圆圈描边样式。 | 可选   | 0        |
 | **r**       | Int  | 圆圈填充样式。 | 可选   | 数据点圆圈的半径 |
+
+
+  [1]: https://github.com/dengzhirong/radarChart
+  [2]: https://dengzhirong.github.io/radarChart/radarChart.html
